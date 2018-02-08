@@ -2,7 +2,7 @@
 Using Node.js and MySQL
 
 ## Technologies used
-Node.js, npm, MySQL.
+Node.js, MySQL.
 
 ### Initial setup for the web server:
 - Install Node.js, MySQL
@@ -34,15 +34,16 @@ Node.js, npm, MySQL.
 
 ## Testing:
 #### Open the postman Rest client for running the test cases 
-- Captured all the test url with a self descriptive names:
-"Restaurants.postman_collection_TestCases.json"
+- Open the file “Restaurants.postman_collection_TestCases.json” which comprises of all the test cases with self-descriptive for testing.
 - Unit test cases are captured in the UnitTestCases.xlsx document
+
 
 
 
 #### Working on the following items:
 - logging to the DB or a file in case of failures.
 - Cache implementation using Redis
+- Capturing timestamps for restaurant creation
 - Automation of test cases using Jasmine
 
 
