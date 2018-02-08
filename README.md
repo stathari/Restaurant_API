@@ -35,11 +35,14 @@ Node.js, npm, MySQL.
 #### Open the postman Rest client for running the test cases 
 - Captured all the test url with a self descriptive names:
 "Restaurants.postman_collection_TestCases.json"
+- Unit test cases are captured in the UnitTestCases.xlsx document
+
 
 
 #### Working on the following items:
 - logging to the DB or a file in case of failures.
 - Cache implementation using Redis
+- Automation of test cases using Jasmine
 
 
   
