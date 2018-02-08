@@ -8,7 +8,8 @@ Node.js, npm, MySQL.
 - Install Node.js, MySQL
 - Run the Restaurants.sql script file on mysql prompt using source command.
 - Edit the values for elements in the .env file
-- As the application is built using Node.js the dependencies(modules)for the project can be installed using the "npm install" command from the root folder where the package.json
+- As the application is built using Node.js the dependencies(modules)for the project can be installed using the "npm install" command from the root folder where the package.json 
+- Check whether node_modules folder is created in the directory of the application
 - Run "npm start" or "node ./server.js" to start the webserver
 - Once the server is up and running open the url http://<<ipaddress>>:port [ for checking the server is up and running ].
     
