@@ -4,7 +4,7 @@ Using Node.js and MySQL
 ## Technologies used
 Node.js, npm, MySQL
 
-Initial setup for the web server:
+##Initial setup for the web server:
 - Install Node.js, MySQL
 - Run the Restaurants.sql script file on mysql prompt using source command.
 - Edit the values for elements in the .env file
