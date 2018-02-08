@@ -13,7 +13,8 @@ Node.js, npm, MySQL.
 - Once the server is up and running open the url http://<<ipaddress>>:port [ for checking the server is up and running ].
     
 ## Following are the service end points implemented:
-root url: http://<<ip_address>>:<<<port>>>/
+#### Service url: http://(ip_address):(port)/
+
 | Method | Description                             | Service Endpoint       | 
 |--------|-----------------------------------------|------------------------| 
 | GET    | Get all the restaurants                 | /restaurants           | 
@@ -26,6 +27,7 @@ root url: http://<<ip_address>>:<<<port>>>/
 | GET    | Get menu items in a restaurant          | /menuitems/RID         | 
 | POST   | Adding menu items                       | /menuitems/add         | 
 | DELETE | Deleting a men item                     | /menuitems/delete      | 
+
 
 
 
